@@ -22,9 +22,9 @@ h1.title{
 p.title{
     position: absolute;
     border: 1px solid black;
-    font-size: 150%;
-    width: 180px;
-    height: 40px;
+    font-size: 120%;
+    width: 160px;
+    height: 30px;
     right: 0;
     top: 0;
     text-align: center;
